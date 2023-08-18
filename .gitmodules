@@ -1,0 +1,3 @@
+[submodule "zelda-nav-svelte"]
+	path = zelda-nav-svelte
+	url = https://github.com/yoonghan/zelda-nav-svelte.git
